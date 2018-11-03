@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+c:\users\klaud\desktop\konik\aplikacja_rozpoznawanie_liczb\appka\appka\źródło.cpp(28): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+opencv_world331d.lib(opencv_world331d.dll) : fatal error LNK1112: wystąpił konflikt typu maszyny modułu „x64” z typem maszyny docelowej „x86”
